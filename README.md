@@ -1,6 +1,5 @@
 # My Weather App 
 
-![](weather.gif)
 
 The web application is created using React framework using JavaScript, HTML, CSS for coding the basic elements in our webpages.
 The application requests the user to enter the location name whose weather details need to be displayed and then displays the temperate, humidity, etc.
